@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/rule/plan/</loc>
+    <lastmod>2016-12-30T22:45:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/rule/team/</loc>
+    <lastmod>2016-12-27T18:58:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/intro/</loc>
+    <lastmod>2016-12-27T11:50:07+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/intro/</loc>
+    <lastmod>2016-12-27T11:50:07+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/</loc>
+    <lastmod>2016-12-30T22:45:07+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/rule/</loc>
+    <lastmod>2016-12-30T22:45:07+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
