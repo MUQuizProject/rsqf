@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://portal.muqproject.com/rsqf/info/access/</loc>
+    <lastmod>2017-01-02T20:19:01+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://portal.muqproject.com/rsqf/rule/plan/</loc>
     <lastmod>2016-12-30T22:45:07+09:00</lastmod>
   </url>
@@ -12,19 +17,14 @@
   </url>
   
   <url>
-    <loc>http://portal.muqproject.com/rsqf/intro/</loc>
-    <lastmod>2016-12-27T11:50:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://portal.muqproject.com/rsqf/intro/</loc>
-    <lastmod>2016-12-27T11:50:07+09:00</lastmod>
+    <loc>http://portal.muqproject.com/rsqf/info/</loc>
+    <lastmod>2017-01-02T20:19:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://portal.muqproject.com/rsqf/</loc>
-    <lastmod>2016-12-30T22:45:07+09:00</lastmod>
+    <lastmod>2017-01-02T20:19:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
