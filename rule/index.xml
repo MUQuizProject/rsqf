@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rules on Riverside Quiz Festa in Asahikawa</title>
-    <link>http://portal.muqproject.com/rsqf/rule/index.xml</link>
+    <link>http://portal.muqproject.com/rsqf/rule/</link>
     <description>Recent content in Rules on Riverside Quiz Festa in Asahikawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Fri, 30 Dec 2016 22:45:07 +0900</lastBuildDate>
-    <atom:link href="http://portal.muqproject.com/rsqf/rule/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://portal.muqproject.com/rsqf/rule/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>企画内容</title>
@@ -15,25 +17,10 @@
       <pubDate>Fri, 30 Dec 2016 22:45:07 +0900</pubDate>
       
       <guid>http://portal.muqproject.com/rsqf/rule/plan/</guid>
-      <description>
-
-&lt;h2 id=&#34;企画内容&#34;&gt;企画内容&lt;/h2&gt;
-
-&lt;h3 id=&#34;全体の流れ&#34;&gt;全体の流れ&lt;/h3&gt;
-
-&lt;p&gt;全体の流れは以下の通りです．&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;各チームから代表者を1人or2人出して行う予選ラウンド(計7企画)．&lt;/li&gt;
-&lt;li&gt;全チーム参加のボード問題による予選最終ラウンド&lt;/li&gt;
-&lt;li&gt;6チームによる準決勝&lt;/li&gt;
-&lt;li&gt;3チームによる決勝&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;各企画内容&#34;&gt;各企画内容&lt;/h3&gt;
-
-&lt;p&gt;(under construction)&lt;/p&gt;
-</description>
+      <description>企画内容 全体の流れ 全体の流れは以下の通りです．
+ 各チームから代表者を1人or2人出して行う予選ラウンド(計7企画)． 全チーム参加のボード問題による予選最終ラウンド 4チームによる決勝(2017-05-05変更)  各企画内容 企画内容はpdfで掲載致します．以下のリンクから御覧ください．
+企画内容
+なお，企画内容については変更される可能性があります．変更がある際にはこちらにて告知致します．</description>
     </item>
     
     <item>
@@ -42,38 +29,8 @@
       <pubDate>Tue, 27 Dec 2016 18:58:59 +0900</pubDate>
       
       <guid>http://portal.muqproject.com/rsqf/rule/team/</guid>
-      <description>
-
-&lt;h2 id=&#34;チーム編成について&#34;&gt;チーム編成について&lt;/h2&gt;
-
-&lt;p&gt;本大会は「&lt;strong&gt;当日チームを組む形の団体戦&lt;/strong&gt;」です．このチーム編成について説明致します．&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;まず，チーム数は&lt;strong&gt;最大12チーム&lt;/strong&gt;，各チームの人数は&lt;strong&gt;最大7人&lt;/strong&gt;となります．
-
-&lt;ul&gt;
-&lt;li&gt;参加者数によってチーム数を確定させます．&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;本大会においては，参加者を3つの「カテゴリー」に分けます．
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;道内社会人&lt;/strong&gt;: 道内に在住の社会人の方&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;道内学生&lt;/strong&gt;: 道内に在住の学生の方&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;道外参加者&lt;/strong&gt;: 道外に在住の参加者(社会人・学生とも)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;そして，チーム編成においては，&lt;strong&gt;以上3カテゴリーの参加者が各チームにできるだけ同じ人数入るように調整します&lt;/strong&gt;．
-
-&lt;ul&gt;
-&lt;li&gt;3区分の参加者数のバランスによっては，複数のカテゴリーを統一して扱うこともありえます．&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;参加者の皆様には，&lt;strong&gt;当日の受付の際にくじを引いて頂きます．&lt;/strong&gt;
-
-&lt;ul&gt;
-&lt;li&gt;このくじは，上記3つのカテゴリーそれぞれごとに異なる種類のくじを引いて頂きます．&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;同じカテゴリーの参加者間で相談の上，くじを交換することは可能です&lt;/strong&gt;．これは，チームごとの戦力バランスを出来る限り分散させるためのものです．&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> チーム編成について 本大会は「当日チームを組む形の団体戦」です．このチーム編成について説明致します．
+ まず，チーム数は最大12チーム，各チームの人数は最大7人となります．  参加者数によってチーム数を確定させます．  本大会においては，参加者を3つの「カテゴリー」に分けます．  道内社会人: 道内に在住の社会人の方 道内学生: 道内に在住の学生の方 道外参加者: 道外に在住の参加者(社会人・学生とも)  そして，チーム編成においては，以上3カテゴリーの参加者が各チームにできるだけ同じ人数入るように調整します．  3区分の参加者数のバランスによっては，複数のカテゴリーを統一して扱うこともありえます．  参加者の皆様には，当日の受付の際にくじを引いて頂きます．  このくじは，上記3つのカテゴリーそれぞれごとに異なる種類のくじを引いて頂きます． 同じカテゴリーの参加者間で相談の上，くじを交換することは可能です．これは，チームごとの戦力バランスを出来る限り分散させるためのものです．   </description>
     </item>
     
   </channel>
