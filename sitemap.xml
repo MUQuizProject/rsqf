@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://portal.muqproject.com/rsqf/info/banquet/</loc>
+    <lastmod>2017-06-08T01:25:01+09:00</lastmod>
+  </url>
   
   <url>
     <loc>http://portal.muqproject.com/rsqf/intro/</loc>
@@ -28,7 +34,7 @@
   
   <url>
     <loc>http://portal.muqproject.com/rsqf/info/</loc>
-    <lastmod>2017-01-02T20:19:01+09:00</lastmod>
+    <lastmod>2017-06-08T01:25:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +46,7 @@
   
   <url>
     <loc>http://portal.muqproject.com/rsqf/</loc>
-    <lastmod>2017-05-05T23:11:20+09:00</lastmod>
+    <lastmod>2017-06-08T01:25:01+09:00</lastmod>
     <priority>0</priority>
   </url>
   
