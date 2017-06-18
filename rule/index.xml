@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rules on Riverside Quiz Festa in Asahikawa</title>
-    <link>http://portal.muqproject.com/rsqf/rule/</link>
+    <link>https://muquizproject.github.io/rsqf/rule/</link>
     <description>Recent content in Rules on Riverside Quiz Festa in Asahikawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Fri, 30 Dec 2016 22:45:07 +0900</lastBuildDate>
     
-	<atom:link href="http://portal.muqproject.com/rsqf/rule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muquizproject.github.io/rsqf/rule/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>企画内容</title>
-      <link>http://portal.muqproject.com/rsqf/rule/plan/</link>
+      <link>https://muquizproject.github.io/rsqf/rule/plan/</link>
       <pubDate>Fri, 30 Dec 2016 22:45:07 +0900</pubDate>
       
-      <guid>http://portal.muqproject.com/rsqf/rule/plan/</guid>
+      <guid>https://muquizproject.github.io/rsqf/rule/plan/</guid>
       <description>企画内容 全体の流れ 全体の流れは以下の通りです．
  各チームから代表者を1人or2人出して行う予選ラウンド(計7企画)． 全チーム参加のボード問題による予選最終ラウンド 4チームによる決勝(2017-05-05変更)  各企画内容 企画内容はpdfで掲載致します．以下のリンクから御覧ください．
 企画内容
@@ -25,10 +25,10 @@
     
     <item>
       <title>チーム編成について</title>
-      <link>http://portal.muqproject.com/rsqf/rule/team/</link>
+      <link>https://muquizproject.github.io/rsqf/rule/team/</link>
       <pubDate>Tue, 27 Dec 2016 18:58:59 +0900</pubDate>
       
-      <guid>http://portal.muqproject.com/rsqf/rule/team/</guid>
+      <guid>https://muquizproject.github.io/rsqf/rule/team/</guid>
       <description> チーム編成について 本大会は「当日チームを組む形の団体戦」です．このチーム編成について説明致します．
  まず，チーム数は最大12チーム，各チームの人数は最大7人となります．  参加者数によってチーム数を確定させます．  本大会においては，参加者を3つの「カテゴリー」に分けます．  道内社会人: 道内に在住の社会人の方 道内学生: 道内に在住の学生の方 道外参加者: 道外に在住の参加者(社会人・学生とも)  そして，チーム編成においては，以上3カテゴリーの参加者が各チームにできるだけ同じ人数入るように調整します．  3区分の参加者数のバランスによっては，複数のカテゴリーを統一して扱うこともありえます．  参加者の皆様には，当日の受付の際にくじを引いて頂きます．  このくじは，上記3つのカテゴリーそれぞれごとに異なる種類のくじを引いて頂きます． 同じカテゴリーの参加者間で相談の上，くじを交換することは可能です．これは，チームごとの戦力バランスを出来る限り分散させるためのものです．   </description>
     </item>
