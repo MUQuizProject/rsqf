@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://muquizproject.github.io/rsqf/intro/</loc>
+    <lastmod>2018-03-17T03:49:36+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://muquizproject.github.io/rsqf/info/entry/</loc>
     <lastmod>2017-06-12T21:26:43+09:00</lastmod>
   </url>
@@ -20,11 +25,6 @@
   <url>
     <loc>https://muquizproject.github.io/rsqf/info/banquet/</loc>
     <lastmod>2017-06-08T01:25:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://muquizproject.github.io/rsqf/intro/</loc>
-    <lastmod>2017-05-05T23:11:20+09:00</lastmod>
   </url>
   
   <url>
@@ -54,12 +54,6 @@
   </url>
   
   <url>
-    <loc>https://muquizproject.github.io/rsqf/intro/</loc>
-    <lastmod>2017-05-05T23:11:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://muquizproject.github.io/rsqf/quiz/</loc>
     <lastmod>2017-06-12T03:32:41+09:00</lastmod>
     <priority>0</priority>
@@ -67,7 +61,7 @@
   
   <url>
     <loc>https://muquizproject.github.io/rsqf/</loc>
-    <lastmod>2017-06-12T21:26:43+09:00</lastmod>
+    <lastmod>2018-03-17T03:49:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
